@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/aditya_kumar_48" target="blank"><img src="https://img.shields.io/twitter/follow/aditya_kumar_48?logo=twitter&style=for-the-badge" alt="aditya_kumar_48" /></a> </p>
 
-- 🌱 I’m currently learning **React,Node.js**
+- 🌱 I’m currently learning **Next.js**
 
 - 👯 what's your thoughts about all these project [Repository](https://github.com/AdityaKumar41?tab=repositories)
 
