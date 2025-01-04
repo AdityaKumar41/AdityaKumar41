@@ -18,6 +18,8 @@
 
 ###
 
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=adityakumar41&label=Profile%20views&color=0e75b6&style=flat" alt="adityakumar41" /> </p>
+
 <h1 align="center">hey there 👋</h1>
 
 ###
